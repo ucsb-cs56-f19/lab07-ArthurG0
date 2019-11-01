@@ -97,7 +97,6 @@ Lab07 will ask you to make some changes to the code. That is coming online soon,
 with lab06, look online and see if the lab07 instructions are ready.
 
 
-
 | Type this | to get this result |
 |-----------|------------|
 | `mvn package` | to make a jar file|
