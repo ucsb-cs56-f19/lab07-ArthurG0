@@ -1,3 +1,8 @@
+
+GITHUB PAGES: https://ucsb-cs56-f19.github.io/lab07-ArthurG0/
+
+
+
 A simple Spring Boot webapp using:
 * Thymeleaf templating
 * Pulling in Bootstrap from CDN.
