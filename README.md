@@ -1,7 +1,7 @@
 
 GITHUB PAGES: https://ucsb-cs56-f19.github.io/lab07-ArthurG0/
 
-
+APP ON HEROKU: https://cs56-f19-lab07-arthurg0.herokuapp.com/
 
 A simple Spring Boot webapp using:
 * Thymeleaf templating
