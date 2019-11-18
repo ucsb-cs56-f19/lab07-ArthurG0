@@ -55,7 +55,6 @@ public class HomePageTest {
         }
     }
 
-
     @Test
     public void getHomePage_hasCorrectTitle() throws Exception {
         mvc.perform(MockMvcRequestBuilders.get("/").accept(MediaType.TEXT_HTML))
