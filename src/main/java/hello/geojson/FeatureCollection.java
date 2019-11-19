@@ -11,6 +11,7 @@ import org.slf4j.LoggerFactory;
 public class FeatureCollection {
     private static Logger logger = LoggerFactory.getLogger(FeatureCollection.class);
     public String type;
+    public Metadata matadata;
 
     public static FeatureCollection fromJSON(String json) {
         try {
