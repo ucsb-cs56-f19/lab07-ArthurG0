@@ -3,6 +3,8 @@ GITHUB PAGES: https://ucsb-cs56-f19.github.io/lab07-ArthurG0/
 
 APP ON HEROKU: https://cs56-f19-lab07-arthurg0.herokuapp.com/
 
+TRAVIS-CI: https://travis-ci.org/ucsb-cs56-f19/lab07-ArthurG0/
+
 A simple Spring Boot webapp using:
 * Thymeleaf templating
 * Pulling in Bootstrap from CDN.
